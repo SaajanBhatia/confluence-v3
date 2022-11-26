@@ -1,0 +1,33 @@
+{
+  "name": "confluence-v3",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Confluence V3 App - Built with NextJS and ReactJS",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaajanBhatia/confluence-v3.git"
+  },
+  "keywords": [
+    "Confluence",
+    "Team09"
+  ],
+  "author": "Saajan Bhatia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaajanBhatia/confluence-v3/issues"
+  },
+  "homepage": "https://github.com/SaajanBhatia/confluence-v3#readme",
+  "dependencies": {
+    "eslint": "8.27.0",
+    "eslint-config-next": "13.0.4",
+    "next": "13.0.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
